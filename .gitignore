@@ -1,0 +1,3 @@
+**/*.or
+*.a
+depend.mk
